@@ -1,0 +1,6 @@
+﻿  Renderer.cpp
+  WalnutApp.cpp
+D:\Ray Tracing Rendering\RayTracing\RayTracing\src\WalnutApp.cpp(30,51): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+D:\Ray Tracing Rendering\RayTracing\RayTracing\src\WalnutApp.cpp(31,52): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+  正在生成代码...
+  RayTracing.vcxproj -> D:\Ray Tracing Rendering\RayTracing\bin\Debug-windows-x86_64\RayTracing\RayTracing.exe
